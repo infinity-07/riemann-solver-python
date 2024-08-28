@@ -4,7 +4,7 @@
 
 该项目的核心工作由 [pmocz 的黎曼求解器](https://github.com/pmocz/riemann-solver) 实现。我将其移植到中文互联网，并对UI进行了少量修改。
 
-![演示图](https://github.com/infinity-07/riemann-solver-python/demo.gif)
+![演示图](https://github.com/infinity-07/riemann-solver-python/blob/main/demo.gif)
 
 如需更多功能或有任何问题，请提交 Issues。
 
